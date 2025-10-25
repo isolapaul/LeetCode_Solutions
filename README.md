@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository contains my personal solutions to various problems from [LeetCode](https://leetcode.com/). I created this space to track my progress, document my solutions, and practice my problem-solving skills in different programming languages.
+This repository contains my personal solutions to various problems from [LeetCode](https://leetcode.com/u/isolapaul/). I created this space to track my progress, document my solutions, and practice my problem-solving skills in different programming languages.
 
 ## Structure
 
